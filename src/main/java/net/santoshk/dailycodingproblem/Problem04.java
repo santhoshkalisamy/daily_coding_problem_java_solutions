@@ -2,7 +2,7 @@ package net.santoshk.dailycodingproblem;
 
 import java.util.Arrays;
 
-public class Problem03 {
+public class Problem04 {
 
     public int solution(int[] nums) {
         Arrays.sort(nums);
